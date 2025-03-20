@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 dgdgdsadadq
 hahahahha
 fgggng
+=======
+dgdgdsadadq
+>>>>>>> 3a88d21232b843010b5e8deb0151aa2c956ce392
